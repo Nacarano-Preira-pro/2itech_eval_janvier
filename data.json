@@ -1,0 +1,88 @@
+{
+  "product": [
+    {
+      "name": "Poulet",
+      "price": "11",
+      "stock": "188",
+      "picture": "https://ireallylikefood.com/wp-content/uploads/2020/11/cooked-chicken.jpg",
+      "id": 7
+    },
+    {
+      "name": "Saumon",
+      "price": "14",
+      "stock": "91",
+      "picture": "https://asset.slimmingworld.co.uk/content/media/8084/baked-spiced-salmon-green-beans-mash_sw_recipe.jpg?v1=JGXiore20qg9NNIj0tmc3TKfKw-jr0s127JqqpCA2x7sMviNgcAYh1epuS_Lqxebn9V_qusKHfwbF7MOUrAPptzBhXIUL1Xnq2Mmdvx4fOk&width=1200&height=630",
+      "id": 8
+    },
+    {
+      "name": "Oeufs",
+      "price": "6",
+      "stock": "202",
+      "picture": "https://hips.hearstapps.com/amv-prod-tpw.s3.amazonaws.com/wp-content/uploads/2015/09/how-to-make-soft-boiled-eggs-00.jpg?crop=1xw:0.7498500299940012xh;center,top&resize=1200:*",
+      "id": 9
+    },
+    {
+      "name": "Glace",
+      "price": "6",
+      "stock": "159",
+      "picture": "https://media.istockphoto.com/photos/vanilla-ice-cream-with-strawberries-picture-id538373585?k=20&m=538373585&s=612x612&w=0&h=nMRTeyHfEaeJkh7ad1kFNcey5ePsrOH47XZW7ptg5is=",
+      "id": 10
+    },
+    {
+      "name": "Salade de fruits",
+      "price": "5",
+      "stock": "170",
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/0b/8b/c5/c3/painter-s-palette-exotic.jpg",
+      "id": 11
+    },
+    {
+      "name": "Plateau de fromages",
+      "price": "8",
+      "stock": "141",
+      "picture": "https://fly.namesbee.com/storage/2021/07/Cheese-Tasting-Class.jpeg?strip=all&lossy=1&ssl=1",
+      "id": 12
+    },
+    {
+      "name": "Légumes",
+      "price": "5",
+      "stock": "307",
+      "picture": "https://www.real-restaurant-recipes.com/images/roasted-vegetables2.jpg",
+      "id": 13
+    },
+    {
+      "name": "Frites",
+      "price": "4",
+      "stock": "350",
+      "picture": "https://graphics.chicagotribune.com/chicago-best-french-fries/img/mr-ds-shish-kabobs2.jpg",
+      "id": 14
+    },
+    {
+      "name": "Burger",
+      "price": "12",
+      "stock": "236",
+      "picture": "https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/b979fc20-c9b4-4403-9df1-dd62bdbccfb1/f7d04a4a-3c16-49d7-9248-c371d9e233f3.jpg",
+      "id": 15
+    },
+    {
+      "name": "Brownie",
+      "price": "8",
+      "stock": "122",
+      "picture": "https://thumbs.dreamstime.com/b/plat-blanc-de-brownie-doux-menu-dessert-restaurant-138367120.jpg",
+      "id": 16
+    },
+    {
+      "name": "Banana-split",
+      "price": "7",
+      "stock": "159",
+      "picture": "https://i0.wp.com/restaurantabbaye.fr/wp-content/uploads/2017/11/Banana-Split-glaces-restaurant-abbaye.jpg",
+      "id": 17
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "address": {},
+      "cart": []
+    }
+  ]
+}

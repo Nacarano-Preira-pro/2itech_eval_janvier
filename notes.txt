@@ -1,0 +1,4 @@
+Pour démarrer l'app :
+1. Ouvrir 2 consoles Bash dans VSCode
+2. Dans la 1ère console, exécuter "npm run backend"
+3. Dans la 2ème console, exécuter "npm start"
